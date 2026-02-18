@@ -1,4 +1,4 @@
-# AI-Youtube-Summarizer-Q-A-Tool
+# video-rag-system
 Youtube Video Summarizer and Q/A Tool made using LangChain, RAG, Faiss, and Gradio
 
 Link to the Youtube Video-  https://www.youtube.com/watch?v=kEOCrtkLvEo
